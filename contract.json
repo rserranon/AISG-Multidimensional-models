@@ -1,0 +1,38 @@
+{
+  "Type of Contract": "SGHA"
+  "Airline Code": "AFR",
+  "Address": "Rue de la france",
+  "AISG Company": "A & P",
+
+  "articles": [
+    { "articleNumber": 1,
+      "articleTitle": "Introduction"
+    },
+    {
+      "articleNumber": 2,
+      "articleTitle": "Main block",
+      "sections": [
+        {
+          "sectionNumber": "2.1",
+          "sectionTitle": "Purpose",
+          "clauses": [
+            {
+              "clauseNumber": "2.1.1",
+              "clauseText": "This contract outlines the terms and conditions between the parties involved.",
+              "subclauses": [
+                {
+                  "subclauseNumber": "2.1.1.1",
+                  "subclauseText": "The intent of this contract is to establish a clear understanding of the project scope."
+                },
+                {
+                  "subclauseNumber": "2.1.1.2",
+                  "subclauseText": "Any changes to the project scope must be documented and agreed upon by both parties."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
